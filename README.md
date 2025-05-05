@@ -1,5 +1,5 @@
 # AZ400CertPrepGit
-1. Faciliate Communication and Collaboration
+1. Facilitate Communication and Collaboration
 2. Develop a Security and Compliance Plan
 3. Manage Source Control
 4. Define and Implement Continuous Integration
